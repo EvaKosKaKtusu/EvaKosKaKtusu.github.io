@@ -5,7 +5,7 @@
         <title>Why</title>
         <style>
             p {
-            text-size:"30";
+            font-size: 30px;
             }
         </style>
     </head>
