@@ -4,9 +4,6 @@
         <meta charset="utf-8">
         <title>Why</title>
         <style>
-            p {
-            font-size: 30px;
-            }
         </style>
     </head>
     <body>
