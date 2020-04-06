@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>CatEncyclopedia/Why</title>
+        <title>Everything about your cat/Why</title>
         <style>
         </style>
     </head>
